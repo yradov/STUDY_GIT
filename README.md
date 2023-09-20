@@ -4,3 +4,4 @@ Study GIT
 - git init
 - git clone https://github.com/yradov/STUDY_GIT.git . 
 - git status
+- git remote -v //просмотр удаленных репозиториев
