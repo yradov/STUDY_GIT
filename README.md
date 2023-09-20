@@ -1,6 +1,8 @@
 # STUDY_GIT
 Study GIT
 code . - открыть проект в VS CODE
+git config --global user.name "Ваше имя"
+git config --global user.email "Ваше имя"
 ## COMMANDS
 - git init
 - git clone https://github.com/yradov/STUDY_GIT.git . 
